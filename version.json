@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.1",
   "min_version": "1.0.0",
   "force": false,
   "url": "https://raw.githubusercontent.com/MANHPRO11/ESP32OTA_Switch_4CH/main/firmware.bin",
-  "checksum_sha256": "4deed52f2a7586676c45acf2886a33ac783e352038f7ae093a2d117a2ff8eb92",
+  "checksum_sha256": "42a16b9e09c588c2d38a60a953056ae80aec2b10b0ed8ed612bfc58ce16d588e",
   "board": "ESP32-C3",
   "release_date": "2026-01-04",
   "notes": [
