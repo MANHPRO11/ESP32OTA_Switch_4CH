@@ -1,15 +1,15 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "min_version": "1.0.0",
   "force": false,
   "url": "https://raw.githubusercontent.com/MANHPRO11/ESP32OTA_Switch_4CH/main/firmware.bin",
-  "checksum_sha256": "c5f2262c4c1f938380385daa2ef6a9c5267a342435e3f3c172347bf89059af45",
+  "checksum_sha256": "537b3dee12b769c42f1b816b168d89bb42ce4706b72726f259b9a1815612e2eb",
   "board": "ESP32-C3",
   "release_date": "2026-01-04",
   "notes": [
     "Cập nhật chức năng lịch trình.",
     "Cập nhật chức năng điều khiển relay.",
-    "them topic MAC + clienID.",
+    "fix time.",
     "SW4K",
     "Ready OTA update."
   ]
