@@ -1,0 +1,16 @@
+{
+  "version": "1.0.4",
+  "min_version": "1.0.0",
+  "force": false,
+  "url": "https://raw.githubusercontent.com/MANHPRO11/ESP32OTA_LV16/main/firmware.bin",
+  "checksum_sha256": "20aeff71d76aed37f6bb5c99dd5c97701f987c742e71c391d25f7fc9c61391d6",
+  "board": "ESP32-C3",
+  "release_date": "2026-01-04",
+  "notes": [
+    "Cập nhật chức năng nhiệt độ.",
+    "Cập nhật chức năng điều khiển relay.",
+    "them topic MAC + clienID.",
+    "SW4K",
+    "Ready OTA update."
+  ]
+}
